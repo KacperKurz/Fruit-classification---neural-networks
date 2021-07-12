@@ -120,13 +120,13 @@ Project Link: [https://github.com/KacperKurz/Fruit-classification---neural-netwo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/KacperKurz/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/KacperKurz/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KacperKurz/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/KacperKurz/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/KacperKurz/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/KacperKurz/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KacperKurz/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/KacperKurz/repo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/KacperKurz/Fruit-classification---neural-networks.svg?style=for-the-badge
+[contributors-url]: https://github.com/KacperKurz/Fruit-classification---neural-networks/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KacperKurz/Fruit-classification---neural-networks.svg?style=for-the-badge
+[forks-url]: https://github.com/KacperKurz/Fruit-classification---neural-networks/network/members
+[stars-shield]: https://img.shields.io/github/stars/KacperKurz/Fruit-classification---neural-networks.svg?style=for-the-badge
+[stars-url]: https://github.com/KacperKurz/Fruit-classification---neural-networks/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KacperKurz/Fruit-classification---neural-networks.svg?style=for-the-badge
+[issues-url]: https://github.com/KacperKurz/Fruit-classification---neural-networks/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kacper-kurz-175707199
